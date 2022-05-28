@@ -1,0 +1,500 @@
+ll
+suckless
+suckless
+z
+vim .zshrc
+zoxide query
+zoxide query
+man zoxide query
+zoxide query -l --all
+ll
+ls
+z star
+z starship
+ll .config
+vim .config/starship.toml
+ll
+nvim .zshrc
+ll
+lsblk
+man chsh
+chsh -l
+git-shell
+chsh -s /bin/zsh will
+ll
+lsblk
+ll /mnt
+doas mount /dev/sdb1 /mnt
+ll
+ll
+ll
+ll /mnt
+cd /mnt
+ll
+feh .
+doas rm -rf *
+ll
+ll
+z
+doas umount -R /mnt
+ll
+lsblk
+lsblk
+parted
+pacs parted
+ll
+lsblk
+parted
+doas parted
+doas parted /dev/sdb
+ll
+gdisk
+pacs gdisk
+gdisk
+cgdisk
+cgdisk /dev/sdb
+lsblk
+gdisk /dev/sdb
+doas cgdisk /dev/sdb
+cfdisk
+doas cfdisk /dev/sdb
+sync
+lsblk
+lsblk
+lsblk
+blkdiscard -s /dev/sdb
+su
+echo $PATH
+ll
+ls
+ls
+vim .zshrc
+ll
+rczsh
+sourcezsh
+ll
+ls
+ls
+ll
+pacss fatdisk
+pacss fat
+pacs exfat-utils exfatprogs
+manfuse2
+fuser
+mandb
+man fuse
+man fuse2
+man fuse-common
+man fuser
+pacss disk
+cd
+ll
+cd Downloads
+ll
+pacman -U mkinitcpio-31-2-any.pkg.tar.zst
+doas pacman -U mkinitcpio-3
+doas pacman -U mkinitcpio-31-2-any.pkg.tar.zst
+doas pacman -U mkinitcpio-utils-0.0.4-1-any.pkg.tar.zst
+doas pacman -U mkinitcpio-31-2-any.pkg.tar.zst
+ll
+doas pacman -U coreutils-9.1-1-x86_64.pkg.tar.zst
+doas pacman -U mkinitcpio-31-2-any.pkg.tar.zst
+doas pacman -U base-2-2-any.pkg.tar.xz
+doas pacman -U coreutils-9.1-1-x86_64.pkg.tar.zst --overwrite
+doas pacman -U coreutils-9.1-1-x86_64.pkg.tar.zst --overwrite coreutils
+doas pacman -U base-2-2-any.pkg.tar.xz --overwrite base
+doas rm -rf /usr/bin/mktemp
+doas pacman -U mkinitcpio-31-2-any.pkg.tar.zst --overwrite mkinitcpio
+man mktemp
+makepkg PKGBUILD
+ll
+cd pkg
+ll
+cd base
+ll
+cd ..
+cd ..
+ll
+doas pacman -U base-3-1-any.pkg.tar.zst --overwrite base
+base
+man base
+ll
+mkinitcpio
+man mkinitcpio
+man mktemp
+suckless
+ll
+cd sbase
+doas make sbase-box-uninstall 
+doas make sbase-box-uninstall install
+ll /usr/bin
+man mktemp
+ll /usr/bin | grep mk
+which mktemp
+ll /usr/local/bin/
+ll /usr/local/bin/ | grep mktemp
+source ~/.zprofile
+mdless README
+cd ..
+ll
+cd sbase
+ll
+doas make sbase-box-uninstall
+make sbase-box-uninstall
+which mktemp
+pacman -S mkinitcpio
+doas pacman -S mkinitcpio
+mdless README
+ll
+zsh
+ll
+pacr coreutils
+pacs mkinitcpio
+ll /usr/bin/mk*
+pacs mktemp
+doas pacman -U mktemp
+doas pacman -S mktemp
+doas pacman -Syyu
+pacs fish
+fish
+ll
+ll
+echo $SHELL
+ll
+ll
+vim .config/alacritty/alacritty.yml
+pacs qt
+doas partitionmanager
+doas partitionmanager
+pacs gnome-disk-utility
+ll
+qemu-img
+man qemu-img
+cd Downloads
+ll
+doas dd if=archlinux-2022.05.01-x86_64.iso of=/dev/sdb bs=4M status=progress
+ll
+lsblk
+man partx
+parted
+doas parted /dev/sdb
+doas fdisk /dev/sdb
+lsblk
+doas dd if=archlinux-2022.05.01-x86_64.iso of=/dev/sdb bs=4M status=progress
+lsblk
+ll
+lsblk | lolcat
+ll
+man ssh-rsa
+man rsa
+ssh-keygen -t ed25519 -C "wvanisb@gmail.com"
+ll
+ssh-keygen -t ed25519 -C "wvanisb@gmail.com"
+eval "$(ssh-agen -s)"
+eval "$(ssh-agent -s)"
+ll
+exec ssh-agent zsh
+lsblk
+cd Downloads
+ll
+ll
+man dd
+man dd
+z
+ll
+lsblk
+lsblk
+echo $0
+lsblk
+doas mount /dev/sdc1 /mnt
+ll
+ll .pki
+ll .pki/nssdb
+bat .pki/nssdb/pkcs11.txt
+pwd
+z
+ll
+ssh-add ~/sshkey
+ll
+ssh-add \ sshkey
+man gh
+pacs gh
+pacss gh
+pacss gh-cli
+pacss github
+pacs github-cli
+gh auth login
+gh auth login
+touch ghpa-token
+vim ghpa-token
+gh ssh-key add \ sshkey.pub
+gh ssh-key add \ sshkey
+cd
+ll
+cd .clones
+mkdir wv
+cd wv
+man gh
+gh repo-clone
+gh repo clone
+gh repo clone linux
+ll
+cd linux
+ll
+cd ..
+ll
+rm -rf linux
+git clone https://github.com/wvanisb/linux
+git clone https://github.com/wvanisb/linux.git
+ll
+git clone https://github.com/wvvanisb/linux.git
+git clone https://github.com/wvanisb/linux
+git clone https://github.com/wvanisb/linux.git
+rm -rf linux
+git clone https://github.com/wvanisb/linux.git
+ls
+git clone https://github.com/wvanisb/linux.git
+git clone https://github.com/wvanisb/linux
+git clone https://github.com/wvanisb/linux.gitll
+ll
+gh repo clone https://github.com/wvvanisb/linux.git
+rm -rf linux
+git clone https://github.com/wvanisb/linux.git
+git clone https://github.com/wvanisb/linux.git
+clear
+ll
+rm -rf linux/
+ll
+ll
+ll
+cd
+ll
+git clone https://github.com/linux.git
+git clone https://github.com/wvanisb/linux.git
+git clone git@github.com:wvanisb/linux.git
+clear
+ll
+lsblk
+fdisk /dev/sdb
+doas fdisk /dev/sdb
+doas cfdisk /dev/sdb
+lsblk
+lsblk
+ll /mnt
+mkdir archinstallscript
+cp /mnt/archinstall.sh archinstallscript
+cp /mnt/archinstallp2.sh archinstallscript
+ll
+vim .zprofile
+man dd
+doas updatedb
+locate zathurarc
+mkdir .config/zathura
+vim .config/zathura/zathurarc
+ll
+man -Tpdf exa | zathura -
+man zathurarc
+pacs zathura
+pacs zathura zathura-pdf-poppler
+man -Tpdf lolcat | zathura -
+man -Tpdf dd | zathura -
+man -k
+man -k .
+man -k .
+man -k . | dmenu -l 20 | awk '{print $1}'
+man -k . | dmenu -l 20 | awk '{print $1}' | xargs -r man -Tpdf | zathura -
+pacss zathura
+pacss zathura-pdf-mupdf
+pacs zathura-pdf-mupdf
+man -k . | dmenu -l 20 | awk '{print $1}' | xargs -r man -Tpdf | zathura -
+man -k . | dmenu -l 20 | awk '{print $1}' | xargs -r man -Tps | zathura -
+killall zathura
+man -k . | dmenu -l 20 | awk '{print $1}' | xargs -r man -Tepub | zathura -
+man exa -Tpdf | zathura -
+pacss zathura
+pacss zathura-cd zathura-djvu zathura-ps
+pacs zathura-cb zathura-djvu zathura-ps
+man exa -Tdjvu | zathura -
+man man
+man man
+man exa -Tdjvu
+man exa -Tpdf
+man exa -tpdf
+man -Tpdf exa
+man -Tpdf exa |  zathura -
+man zathura
+cd testing
+ll
+./script.sh
+./script.sh
+./script.sh
+script.sh
+./script.sh
+./script.sh
+./script.sh
+./script.sh
+./script.sh
+./script.sh
+echo $EDITOR
+echo $EDITOR
+zsh
+echo $EDITOR
+echo $EDITOR
+vim .zprofile
+ll
+source ~/.zprofile
+echo $EDITOR
+vim ~/.zshrc
+zsh
+cp .scripts/learnthis.sh archinstallscript
+ll
+cd archinstallscript
+ll
+ll
+ll
+vim
+echo $EDITOR
+cd testing
+ll
+./script.sh
+./script.sh
+./script.sh
+echo $EDITOR
+./script.sh
+./script.sh
+./script.sh
+./script.sh
+./script.sh
+doas ./script.sh
+./script.sh
+./script.sh
+null
+null
+./script.sh
+echo "$EDITOR"
+./script.sh
+./script.sh
+[ -z "$EDITOR" ]
+[ -z "$EDITOR" ]
+[ -d "$EDITOR" ]
+[ -z "$TERMINAL" ]
+[ -z "$TERMINAL" ]
+./script.sh
+source ~/.zshrc
+[ -z "$EDITOR" ]
+./script.sh
+echo $EDITOR
+cp ~/.zprofile ~/.profile
+zsh
+[ -z "$EDITOR" ] && EDITOR=nvim then echo $EDITOR
+[ -z "$EDITOR" ] && EDITOR=nvim ; echo $EDITOR
+[ -z "$EDITOR" ] && EDITOR=nvim && echo $EDITOR
+[ -z "$EDITOR" ] && EDITOR=nvim \ echo $EDITOR
+[ -z "$EDITOR" ] && EDITOR=nvim  \ echo $EDITOR
+[ -z "$EDITOR" ] && EDITOR=nvim \\
+echo "its vim\
+
+[ -z "$EDITOR" ] && EDITOR=nvim \\
+echo "its vim\
+
+[ -z "$EDITOR" ] && EDITOR=nvim \\
+echo "its vim"\
+
+[ -z "$EDITOR" ] && EDITOR=nvim \\
+echo "its vim"\
+
+mkdir testing
+cd testing
+vim script.sh
+chmod +x script.sh
+./script.sh
+echo $EDITOR
+vim script.sh
+echo $EDITOR
+./script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+dash script.sh
+dash script.sh
+vim script.sh
+echo $EDITOR
+vim script.sh
+dash script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+vim script.sh
+dash script.sh
+./script.sh
+vim script.sh
+./script.sh
+vim script.sh
+./script.sh
+vim script.sh
+vim script.sh
+echo $EDITOR
+./script.sh
+sh
+doas umount -R /mnt
+reboot
+if -d
+if [[ -d "$XDG_CONFIG_HOME" ]]; then\
+echo $XDG_CONFIG_HOME\
+else\
+echo 'whoops'\
+fi
+if [[ -d "$XDG_CONFIG_HOME" ]]; then\
+echo $XDG_CONFIG_HOME\
+else\
+echo 'whoops'\
+fi
+if [[ -z "$XDG_CONFIG_HOME" ]]; then\
+echo $XDG_CONFIG_HOME\
+else\
+echo 'whoops'\
+fi
+if [[ -d "$XDG_CONFIG_HOME" ]]; then\
+echo $XDG_CONFIG_HOME\
+else\
+echo 'whoops'\
+fi
+[ -z "$EDITOR" ] && EDITOR=nvim
+zsh
+nmtui
+NetworkManager
+nmtui
+systemctl status networkmanager
+systemctl status NetworkManager
+killall NetworkManager
+doas killall NetworkManager
+systemctl start NetworkManager
+ll
+nmtui
+ll
+cd archinstallscript
+ll
+man nvim
+sh ~/testing/script.sh
+echo $SHELL
+echo $EDITOR
+vim .zshrc
+vim ~/.zshrc
+sourcezsh
+echo $BROSER
+echo $BROWSER
+sh ~/testing/script.sh
+ip link
+cd ~/Downloads
+ll
+lsblk
+lsblk
+doas dd if=artix-base-openrc-20220123-x86_64.iso of=/dev/sdb bs=4M status=progress
+ll
+reboot

@@ -1,0 +1,7 @@
+#!/bin/dash
+
+picom -b
+dash $HOME/.fehbg
+sleep 4 && dash $HOME/.scripts/slock.sh
+
+
